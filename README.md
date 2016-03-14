@@ -8,4 +8,12 @@ It is the source of my blogs
 1. npm install hexo
 1. hexo init
 1. npm install
-1. npm install hexo-deployer-git
+1. npm install hexo-deployer-git --save
+
+## hexo command
+1. hexo n == hexo new
+1. hexo p == hexo publish
+1. hexo g == hexo generate
+1. hexo s == hexo server
+1. hexo d == hexo deploy
+
