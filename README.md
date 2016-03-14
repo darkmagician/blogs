@@ -5,7 +5,7 @@ It is the source of my blogs
 
 ## setup hexo
 
-npm install hexo
-hexo init
-npm install
-npm install hexo-deployer-git
+1. npm install hexo
+1. hexo init
+1. npm install
+1. npm install hexo-deployer-git
