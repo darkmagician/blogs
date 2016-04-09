@@ -1,7 +1,7 @@
 ---
 title: NFV Architecture简介
 date: 2016-03-23 21:09:59
-tags: Cloud
+tags: [Cloud,NFV]
 ---
 NFV (Network Function Virtualization), 即网络功能虚拟化. 是电信行业网络虚拟化的一个标准。一般运营商往往在内部维护着庞大的网络系统，其中包括了很多网络服务器。利用云计算技术把这些服务运行于虚拟化环境中，可以实现物理资源的最大化利用率，灵活的部署策略。例如 PCRF，PGW， SGW等网络设备都可以运行于虚拟化环境中。
 

@@ -1,7 +1,7 @@
 ---
 title: 使用tesseract-ocr识别验证码
 date: 2016-02-04 20:40:36
-tags: 
+tags: [OCR]
 ---
 ## tesseract-ocr 简介
 [tesseract](https://github.com/tesseract-ocr/tesseract) 是一个开源的OCR引擎。内置提供了多种语言的识别，也支持样本训练。
