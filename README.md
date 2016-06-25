@@ -15,6 +15,8 @@ It is the source of my blogs
 ## setup 
 1. npm install hexo -g
 1. npm install
+
+
 ## installl schema
 1. git clone https://github.com/cgmartin/hexo-theme-bootstrap-blog.git themes/bootstrap-blog
 
